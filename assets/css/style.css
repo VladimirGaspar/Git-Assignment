@@ -2,3 +2,17 @@ img{
 width: 100%;
 
 }
+.rebellion{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    
+}
+footer{
+    text-align: center
+}
+.new_banner{
+   
+    width: 30%;
+}
