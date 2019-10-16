@@ -12,3 +12,7 @@ width: 100%;
 footer{
     text-align: center
 }
+.grid-container{
+    display: grid;
+
+}
